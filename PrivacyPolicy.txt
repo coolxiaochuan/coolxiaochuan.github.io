@@ -14,7 +14,6 @@ Guoweichuan prohibits and does not recognize any purported transfers of virtual 
 
 4.Your Responsibility in Using Our Service
 You agree that, while using the Guoweichuan services, you will not, under any circumstances:
-
 send, post, transmit, or make available any material or information that may be abusive, threatening obscene, defamatory, libelous, or racially, sexually, religiously, or otherwise objectionable or offensive;
 stalk, harass, threaten, or defraud other Guoweichuan users;
 use, develop, or distribute any robot, spider, unauthorized script, unauthorized scraper or offline reader, or any other cheat, mod, hack or the like, or any unauthorized third-party software designed to modify or interfere with or provide automated access to or use of the Guoweichuan service;
