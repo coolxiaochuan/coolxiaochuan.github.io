@@ -23,8 +23,10 @@ develop, distribute, or publicly inform other members of “auto” software pro
 exploit, distribute, or publicly inform other members of any game error, miscue, or bug which gives an unintended advantage;
 share the password of the game account or other information that let anyone else access your game account;
 access another user’s game account without permission;
+
 5.Guest Account
 Please keep in mind that you may not receive customer support or may not use virtual items or virtual currency for which you have paid if you change your mobile device without creating a game account.
+
 6.Suspension & Termination of game account
 Guoweichuan may limit, suspend, or terminate your use of the game account if we have a reasonable belief that you fail to comply with any portion of our policy. In such an event, Guoweichuan is not required to provide refunds, benefits, or other compensation.
 
